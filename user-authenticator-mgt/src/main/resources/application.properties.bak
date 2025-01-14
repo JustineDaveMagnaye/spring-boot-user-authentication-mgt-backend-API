@@ -1,0 +1,3 @@
+spring.application.name=osd-records-mgt-appl
+app.encryption.secret-key=AbCdEfGhIjKlMnOp
+
